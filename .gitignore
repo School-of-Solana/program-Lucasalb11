@@ -55,3 +55,7 @@ Cargo.lock
 
 # Package lock files (keep yarn.lock, ignore npm)
 package-lock.json
+
+# Solana test ledger (temporary validator data)
+test-ledger/
+**/test-ledger/
